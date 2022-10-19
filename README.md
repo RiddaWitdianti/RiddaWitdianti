@@ -9,13 +9,15 @@
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 
-- 🤝 I’m looking for help with **brainstorming about the world of programming especially in the web**
+- 🤝 I’m looking for help by **looking for a website or group to solve a problem**
 
 - 💬 Ask me **anything related to web applications, especially in the field of design**
 
 - 📫 How to reach me **your own way 😉**
 
-- ⚡ Fun fact **I love coding with a dark theme and it keeps me from being distracted by my eyesight and listening to 🐈 purrs in my daily life**
+- ⚡ Fun fact **I like coding with a dark theme and it keeps me from being distracted by my eyesight**
+
+- 🐈 I love cats **like to listen to cat purrs to relax the mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
