@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddawitdianti&" alt="riddawitdianti" /></p>
 
-<h3 align="left" >🐍 Snake eating my contribution graph</h3>
+## 🐍 Snake eating my contribution graph ##
 ![snake gif](https://github.com/RiddaWitdianti/RiddaWitdianti/blob/output/github-contribution-grid-snake.gif)
