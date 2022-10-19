@@ -1,4 +1,4 @@
-[![Foiro-Banner.jpg](https://i.postimg.cc/4xx45NL1/Foiro-Banner.jpg)](https://postimg.cc/4mjT4ZTK)
+[![Foiro-Banner.jpg](https://i.postimg.cc/0yDnVPzb/Foiro-Banner.jpg)](https://postimg.cc/K1ctzXr2)
 <h1 align="center">Hi 👋, I'm Ridda Witdianti</h1>
 <h3 align="center">I'm from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
