@@ -22,8 +22,8 @@
 
 <h3 align="left" >🌐 Connect With Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ridda-witdianti-54a8a3244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridda-witdianti-54a8a3244/" height="30" width="40" /></a>
-<a href="https://dribbble.com/riddawitdianti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="riddawitdianti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridda-witdianti-54a8a3244/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ridda-witdianti-54a8a3244/" height="30" width="100" /></a>
+<a href="https://dribbble.com/riddawitdianti" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="riddawitdianti" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
