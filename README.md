@@ -23,6 +23,8 @@
 <h3 align="left" >🌐 Connect With Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ridda-witdianti-54a8a3244/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ridda-witdianti-54a8a3244/" height="30" width="100" /></a>
+<a href="witdiantiridda@gmail.com/riddawitdianti" target="blank"><img align="center" src="https://img.shields.io/badge/Email-%23FF0000.svg?&style=for-the-badge&logo=Email&logoColor=white" alt="riddawitdianti" height="30" width="100" /></a>
+</p>
 <a href="https://dribbble.com/riddawitdianti" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="riddawitdianti" height="30" width="100" /></a>
 </p>
 
