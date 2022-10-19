@@ -15,9 +15,10 @@
 
 - 📫 How to reach me **your own way 😉**
 
-- ⚡ Fun fact **I like coding with a dark theme and it keeps me from being distracted by my eyesight**
-
-- 🐈 I love cats **like to listen to cat purrs to relax the mind**
+- ⚡ Fun fact **I like coding with a dark theme and it keeps me from being**
+   **distracted by my eyesight**
+   
+- 🐈 I like  **cat purrs and it relaxes my mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
